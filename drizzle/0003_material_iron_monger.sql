@@ -1,0 +1,1 @@
+ALTER TABLE "echo_clipboard" ALTER COLUMN "data" SET DEFAULT '{"item":"","device":"desktop"}'::json;

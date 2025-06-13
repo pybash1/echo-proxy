@@ -1,0 +1,1 @@
+ALTER TABLE "echo_clipboard" RENAME COLUMN "name" TO "data";
